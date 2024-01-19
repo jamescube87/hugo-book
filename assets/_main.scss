@@ -96,6 +96,11 @@ ul.pagination {
   }
 }
 
+.book-brand span {
+  background-color: black;
+  color: white;
+}
+
 .book-menu {
   flex: 0 0 $menu-width;
   font-size: $font-size-14;
